@@ -5,7 +5,7 @@ end
 
 def using_sort(array)
   arr = ["apples", "oranges", "bananas", "pears"]
-  arr.sort
+  arr.sort!
 end
 
 def using_reverse(array)
